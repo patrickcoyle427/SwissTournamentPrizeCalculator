@@ -21,7 +21,7 @@ money taken in = entry fee * players
 
 profit = money taken in - cost
 
-profit % = cost / money taken in
+profit % = profit / money taken in
 
 Create a GUI
 
